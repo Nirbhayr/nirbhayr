@@ -6,7 +6,7 @@ Aspiring data scientist. I currently work with Python 3.x. Have working knowledg
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirbhayr) 
 [![Hackerrank](https://img.shields.io/badge/hackerrank-%20-blue.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nirbhayraghav?hr_r=1)
 [![Kaggle](https://img.shields.io/badge/kaggle-%20-yellowgreen.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/nirbhayraghav)
-
+[![LeetCode](https://img.shields.io/badge/letcode-%20-yellowgreen.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/nirbhayr)
 
 
 # 💻 Tools and Libraries:
