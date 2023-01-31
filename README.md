@@ -1,6 +1,8 @@
 # 💫 About Me:
 Aspiring data scientist. I currently work with Python 3.x. Have working knowledge of<br>multiple python libraries used regularly for data analysis and visualization.<br>Have good mathematical background in probability, statistics, numerical<br>optimization techniques, machine learning models, and deep learning models<br>for CV. I also have intermediate knowledge of MySQL, Excel, and PowerBI.
 
+www.nirbhayr.in
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirbhayr) 
