@@ -3,6 +3,9 @@ Aspiring data scientist. I currently work with Python 3.x. Have working knowledg
 
 www.nirbhayr.in
 
+<b> Recent blogs
+https://www.nirbhayr.in/blogs/a-beginners-guide-to-neural-networks-from-scratch-using-pytorch
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirbhayr) 
