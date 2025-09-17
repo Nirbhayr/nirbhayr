@@ -1,17 +1,14 @@
 # 💫 About Me:
-Aspiring data scientist. I currently work with Python 3.x. Have working knowledge of<br>multiple python libraries used regularly for data analysis and visualization.<br>Have good mathematical background in probability, statistics, numerical<br>optimization techniques, machine learning models, and deep learning models<br>for CV. I also have intermediate knowledge of MySQL, Excel, and PowerBI.
+I currently work in Aviation. Have working knowledge of multiple python libraries used regularly for data analysis and visualization. Have a decent background in probability, statistics, numerical optimization techniques, machine learning models, and deep learning models for CV. I also have beginner knowledge of MySQL.
 
 www.nirbhayr.in
 
-<b> Recent blog<br>
+<b> Latest blog<br>
 https://www.nirbhayr.in/blogs/a-beginners-guide-to-neural-networks-from-scratch-using-pytorch
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirbhayr) 
-[![Hackerrank](https://img.shields.io/badge/hackerrank-%20-blue.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nirbhayraghav?hr_r=1)
-[![Kaggle](https://img.shields.io/badge/kaggle-%20-yellowgreen.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/nirbhayraghav)
-[![LeetCode](https://img.shields.io/badge/letcode-%20-yellowgreen.svg?logo=leetcode&logoColor=white)](https://www.leetcode.com/nirbhayr)
 
 
 # 💻 Tools and Libraries:
@@ -21,7 +18,6 @@ https://www.nirbhayr.in/blogs/a-beginners-guide-to-neural-networks-from-scratch-
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nirbhayr&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
