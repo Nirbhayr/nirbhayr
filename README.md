@@ -4,7 +4,7 @@ I currently work in Aviation. Have working knowledge of multiple python librarie
 www.nirbhayr.in
 
 <b> Latest blog<br>
-https://www.nirbhayr.in/blogs/a-beginners-guide-to-neural-networks-from-scratch-using-pytorch
+[https://www.nirbhayr.in/blogs/a-beginners-guide-to-neural-networks-from-scratch-using-pytorch](https://www.nirbhayr.in/archive/a-beginners-guide-to-neural-networks-from-scratch-using-pytorch)
 
 
 ## 🌐 Socials:
