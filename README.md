@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently work in Aviation. Have working knowledge of multiple python libraries used regularly for data analysis and visualization. Have a decent background in probability, statistics, numerical optimization techniques, machine learning models, and deep learning models for CV. I also have beginner knowledge of MySQL.
+I dabble in too many things at any given time and most of them are just hanging somewhere in the middle!
 
 www.nirbhayr.in
 
